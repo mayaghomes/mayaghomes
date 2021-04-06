@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @mayaghomes
+- 🌱 I’m currently learning python
+- 📫 How to reach me mayaghomes@hotmail.com
